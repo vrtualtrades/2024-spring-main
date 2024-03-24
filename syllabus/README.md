@@ -59,7 +59,7 @@ By the completion of this course, students will be able to:
 * **Gurdit Chahal**: Wednesday at 2:30pm PST
 * **Natalie Ahn**: Wednesday at 6pm PST
 * **Mike Tamir/Paul Spiegelhalter**: Wednesday immediately after the live session
-* **Jennifer Zhu**: Thursday at 5:30pm PST
+* **Jennifer Zhu**: Thursday at 6pm PST
 * **Mark Butler**: Thursday at 4pm PST
 * **Rachel Gao**: Friday at 10am PST
 
@@ -128,7 +128,7 @@ Office hours are for the whole class; students from any section are welcome to a
   Assignment&nbsp;4
   <td><strong>Multimodal NLP</strong></td>
   <td>Mar&nbsp;08</td>
-  <td>Mar&nbsp;23</td>
+  <td>Mar&nbsp;24</td>
   <td>10%</td>
 </tr>
 <tr>
@@ -310,6 +310,7 @@ will be released around the last live session of the week and due approximately 
 
 
 
+
 <tr> <!-- project proposal -->
   <td><strong><a href="../project/#project-proposal" target="_blank">Project&nbsp;Proposal</a></strong>
   <td>
@@ -317,6 +318,28 @@ will be released around the last live session of the week and due approximately 
   </td>
   <td></td>
   <td>Feb&nbsp;18</td>
+</tr>
+
+<tr> <!-- a3 -->
+  <td><strong><a href="../assignment/a3" target="_blank">Assignment&nbsp;3</a></strong>
+  <td><strong>Assignment 3</strong>
+  <ul>
+    <li>Multiclass Classification
+    <li>Summarization
+	<li>Question Answering
+  </ul></td>
+  <td>Feb&nbsp;16</td>
+  <td>Mar&nbsp;03</td>
+</tr>
+
+<tr> <!-- a4 -->
+  <td><strong><a href="../assignment/a4" target="_blank">Assignment&nbsp;4</a></strong>
+  <td><strong>Assignment 4</strong>
+  <ul>
+    <li>Image Captioning
+  </ul></td>
+  <td>Mar&nbsp;08</td>
+  <td>Mar&nbsp;24</td>
 </tr>
 
 
